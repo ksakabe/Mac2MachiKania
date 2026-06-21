@@ -1,1 +1,180 @@
-{"Key Mappings":{"0xf706-0x20000-0x63":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x32 0x35 0x7e","Escaping":2},"0xf704-0x20000-0x7a":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x33 0x38 0x7e","Escaping":2},"0xf707-0x0-0x76":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x31 0x34 0x7e","Escaping":2},"0xf703-0x240000-0x7c":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x51","Escaping":2},"0xf72c-0x220000-0x74":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x4b","Escaping":2},"0xf701-0x220000-0x7d":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x46","Escaping":2},"0x1b-0x0-0x35":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x4d","Escaping":2},"0x9-0x0-0x30":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x09","Escaping":2},"0xf707-0x20000-0x76":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x32 0x36 0x7e","Escaping":2},"0xf705-0x20000-0x78":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x33 0x39 0x7e","Escaping":2},"0xf739-0x200000-0x47":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x08","Escaping":2},"0xf700-0x240000-0x7e":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x4f","Escaping":2},"0xf72b-0x220000-0x77":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x4a","Escaping":2},"0xf705-0x0-0x78":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x31 0x32 0x7e","Escaping":2},"0xf729-0x0-0x73":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x31 0x7e","Escaping":2},"0xf703-0x220000-0x7c":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x47","Escaping":2},"0xf702-0x240000-0x7b":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x52","Escaping":2},"0xf706-0x0-0x63":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x31 0x33 0x7e","Escaping":2},"0xf704-0x0-0x7a":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x31 0x31 0x7e","Escaping":2},"0xf729-0x220000-0x73":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x49","Escaping":2},"0xf700-0x220000-0x7e":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x45","Escaping":2},"0xf72d-0x220000-0x79":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x4c","Escaping":2},"0xf701-0x240000-0x7d":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x50","Escaping":2},"0xf72b-0x0-0x77":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x34 0x7e","Escaping":2},"0xf702-0x220000-0x7b":{"Version":2,"Apply Mode":0,"Action":11,"Text":"0x1b 0x5b 0x48","Escaping":2}},"Touch Bar Items":[]}
+{
+  "Key Mappings": {
+    "0xf706-0x20000-0x63": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x32 0x35 0x7e",
+      "Escaping": 2
+    },
+    "0xf704-0x20000-0x7a": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x33 0x38 0x7e",
+      "Escaping": 2
+    },
+    "0xf707-0x0-0x76": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x31 0x34 0x7e",
+      "Escaping": 2
+    },
+    "0xf703-0x240000-0x7c": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x51",
+      "Escaping": 2
+    },
+    "0xf72c-0x220000-0x74": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x4b",
+      "Escaping": 2
+    },
+    "0xf701-0x220000-0x7d": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x46",
+      "Escaping": 2
+    },
+    "0x1b-0x0-0x35": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x4d",
+      "Escaping": 2
+    },
+    "0x9-0x0-0x30": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x09",
+      "Escaping": 2
+    },
+    "0xf707-0x20000-0x76": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x32 0x36 0x7e",
+      "Escaping": 2
+    },
+    "0xf705-0x20000-0x78": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x33 0x39 0x7e",
+      "Escaping": 2
+    },
+    "0xf739-0x200000-0x47": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x08",
+      "Escaping": 2
+    },
+    "0xf700-0x240000-0x7e": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x4f",
+      "Escaping": 2
+    },
+    "0xf72b-0x220000-0x77": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x4a",
+      "Escaping": 2
+    },
+    "0xf705-0x0-0x78": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x31 0x32 0x7e",
+      "Escaping": 2
+    },
+    "0xf729-0x0-0x73": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x31 0x7e",
+      "Escaping": 2
+    },
+    "0xf703-0x220000-0x7c": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x47",
+      "Escaping": 2
+    },
+    "0xf702-0x240000-0x7b": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x52",
+      "Escaping": 2
+    },
+    "0xf706-0x0-0x63": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x31 0x33 0x7e",
+      "Escaping": 2
+    },
+    "0xf704-0x0-0x7a": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x31 0x31 0x7e",
+      "Escaping": 2
+    },
+    "0xf729-0x220000-0x73": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x49",
+      "Escaping": 2
+    },
+    "0xf700-0x220000-0x7e": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x45",
+      "Escaping": 2
+    },
+    "0xf72d-0x220000-0x79": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x4c",
+      "Escaping": 2
+    },
+    "0xf701-0x240000-0x7d": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x50",
+      "Escaping": 2
+    },
+    "0xf72b-0x0-0x77": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x34 0x7e",
+      "Escaping": 2
+    },
+    "0xf702-0x220000-0x7b": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x48",
+      "Escaping": 2
+    }
+  },
+  "Touch Bar Items": []
+}
