@@ -126,6 +126,13 @@
       "Text": "0x1b 0x5b 0x31 0x33 0x7e",
       "Escaping": 2
     },
+    "0x7f-0xc0000-0x33": {
+      "Version": 2,
+      "Apply Mode": 0,
+      "Action": 11,
+      "Text": "0x1b 0x5b 0x4e",
+      "Escaping": 2
+    },
     "0xf704-0x0-0x7a": {
       "Version": 2,
       "Apply Mode": 0,
